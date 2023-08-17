@@ -1,0 +1,7 @@
+com/abelkelly/fraud/services/FraudCheckService.class
+com/abelkelly/fraud/controller/FraudController.class
+com/abelkelly/fraud/FraudApplication.class
+com/abelkelly/fraud/ResponseSchema/FraudCheckResponse.class
+com/abelkelly/fraud/models/FraudCheckHistory.class
+com/abelkelly/fraud/Repository/FraudCheckHistoryRepository.class
+com/abelkelly/fraud/models/FraudCheckHistory$FraudCheckHistoryBuilder.class

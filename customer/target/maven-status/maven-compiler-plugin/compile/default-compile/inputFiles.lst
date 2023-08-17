@@ -1,0 +1,8 @@
+/Users/abelkalu/Desktop/Java/IdeaProjects/microservice/customer/src/main/java/com/abelkelly/customer/CustomerApplication.java
+/Users/abelkalu/Desktop/Java/IdeaProjects/microservice/customer/src/main/java/com/abelkelly/customer/config/CustomerConfig.java
+/Users/abelkalu/Desktop/Java/IdeaProjects/microservice/customer/src/main/java/com/abelkelly/customer/ResponseSchema/FraudCheckResponse.java
+/Users/abelkalu/Desktop/Java/IdeaProjects/microservice/customer/src/main/java/com/abelkelly/customer/Services/CustomerRegistrationRequest.java
+/Users/abelkalu/Desktop/Java/IdeaProjects/microservice/customer/src/main/java/com/abelkelly/customer/Services/CustomerService.java
+/Users/abelkalu/Desktop/Java/IdeaProjects/microservice/customer/src/main/java/com/abelkelly/customer/model/Customer.java
+/Users/abelkalu/Desktop/Java/IdeaProjects/microservice/customer/src/main/java/com/abelkelly/customer/controllers/CustomerController.java
+/Users/abelkalu/Desktop/Java/IdeaProjects/microservice/customer/src/main/java/com/abelkelly/customer/Repository/CustomerRepository.java
